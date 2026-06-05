@@ -8,8 +8,7 @@ Hi, I'm Sabarish (AlterEagle17), a passionate Web Developer and Computer Science
 ## Skills
 - HTML
 - CSS
-- JavaScript
-- Git & GitHub
+- GitHub
 
 ## Projects
 ### Project 1
