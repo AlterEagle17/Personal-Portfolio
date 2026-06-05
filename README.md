@@ -1,2 +1,22 @@
-# Personal-Portfolio
-<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/c616746c-b946-47ff-a30c-07b75c352ddf" />
+# Personal Portfolio
+
+Welcome to my personal portfolio website.
+
+## About Me
+Hi, I'm Sabarish (AlterEagle17), a passionate Web Developer and Computer Science student.
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## Projects
+### Project 1
+Coming Soon
+
+### Project 2
+Coming Soon
+
+## Contact
+- GitHub: https://github.com/AlterEagle17
